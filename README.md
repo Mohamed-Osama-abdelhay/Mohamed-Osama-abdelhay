@@ -54,5 +54,5 @@
 
    <h2> Keep in Touch </h2>
  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' >](https://github.com/Mohamed-Osama-abdelhay) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-osama-05712a231/)&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:Mohammed.osama.abdelhay@gmail.com)  <!--deactivated account-->
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="40" height='40' >](https://github.com/Mohamed-Osama-abdelhay) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'  width="40" height='40'>](https://www.linkedin.com/in/mohamed-osama-05712a231/)&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' width="40"  height='40'>](mailto:Mohammed.osama.abdelhay@gmail.com)  <!--deactivated account-->
  
