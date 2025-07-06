@@ -11,10 +11,9 @@
 
 <h3> 👩🏻‍💻 About Me </h3>
   
-- 👩🏻‍🎓 I’m studying Computer Science at Ain Shams University, **Cairo**.  </br>
+- 👩🏻‍🎓 Computer Science fresh graduate at Ain Shams University 2025 , **Cairo**.  </br>
 - 🤔 &nbsp; Exploring new technologies and developing hardware solutions.
 - 🏡 Lives in Cairo, Egypt (🇪🇬).
-- Problem Solving Skills.
   
 <h3>🛠 Tech Stack </h3>
 
