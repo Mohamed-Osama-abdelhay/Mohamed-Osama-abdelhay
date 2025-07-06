@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed </h1>
-<h3 align="center"> Computer Science Student at Ain-Shams University</h3>
+<h3 align="center"> Computer Science fresh graduate at Ain-Shams University 2025 </h3>
 <p align="center">
 </p>
 
